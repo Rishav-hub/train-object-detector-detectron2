@@ -1,1 +1,71 @@
-alpaca
+1. Type of Transaction (Mark all applicable boxes)
+10. Patient’s Relationship to Person named in #5 Dependent
+10. Patient’s Relationship to Person named in #5 Other
+10. Patient’s Relationship to Person named in #5 Self
+10. Patient’s Relationship to Person named in #5 Spouse
+12. Policyholder/Subscriber Address
+12. Policyholder/Subscriber City
+12. Policyholder/Subscriber Name (Last, First, Middle Initial, Suffix)
+12. Policyholder/Subscriber State
+12. Policyholder/Subscriber Zip
+13. Date of Birth (MM/DD/CCYY)
+14. Policyholder_Gender F
+14. Policyholder_Gender M
+15. Policyholder/Subscriber ID (SSN or ID#)
+18. Relationship to Policyholder/Subscriber in #12 Above Dependent Child
+18. Relationship to Policyholder/Subscriber in #12 Above Other
+18. Relationship to Policyholder/Subscriber in #12 Above Self
+18. Relationship to Policyholder/Subscriber in #12 Above Spouse
+20. Name (Last, First, Middle Initial, Suffix)
+20. Patient_Address
+20. Patient_City
+20. Patient_State
+20. Patient_Zip Code
+21. Date of Birth (MM/DD/CCYY)
+22. Patient_Gender F
+22. Patient_Gender M
+23. Patient ID/Account # (Assigned by Dentist)
+24. Procedure Date
+25. Area of Oral Cavity
+27. Tooth Number(s) or Letter(s)
+28. Tooth Surface
+29. Procedure Code
+3. Company/Plan Name, Address, City, State, Zip Code
+31. Fee
+33. Total Fee
+34. Diagnosis Code List Qualifier
+34a. Diagnosis Code(s) (Primary diagnosis in 'A')
+35. Remarks
+36. Patient/Guardian Signature
+37. Subscriber Signature
+4. Dental?
+4. Medical?
+40. Is Treatment for Orthodontics? No
+40. Is Treatment for Orthodontics? Yes
+41. Date Appliance Placed (MM/DD/CCYY)
+43. Replacement of Prosthesis Yes
+44. Date of Prior Placement (MM/DD/CCYY)
+45. Treatment Resulting from Auto accident
+45. Treatment Resulting from Occupational illness/injury
+45. Treatment Resulting from Other accident
+46. Date of Accident (MM/DD/CCYY)
+47. Auto Accident State
+48. DEN_Address
+48. DEN_City
+48. DEN_Name
+48. DEN_State
+48. DEN_Zip Code
+49. NPI / Provider ID
+5. Name of Policyholder/Subscriber in #4 (Last, First, Middle Initial, Suffix)
+50. License Number
+51. SSN or TIN
+53. Signed (Treating Dentist)
+54. NPI / Provider ID
+55. License Number
+56. Billing_Prov_Address
+56. Billing_Prov_City
+56. Billing_Prov_State
+56. Billing_Prov_Zip
+8. Policyholder/Subscriber ID (SSN or ID#)
+9. Plan/Group Number
+Missing Teeth Information (Place an 'X' on each missing tooth.)
